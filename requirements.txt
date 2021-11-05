@@ -12,7 +12,7 @@ py==1.4.33
 pytest==3.0.7
 python-dateutil==2.6.0
 requests==2.20
-scipy==1.71
+scipy==1.7.1
 six==1.10.0
 smart-open==1.5.1
 tox==2.7.0
